@@ -1,8 +1,8 @@
 # CODSOFT
 Here I had add all three tasks of codsoft.
 
-First- Number guessing game
+1. Number guessing game___
 
-Second- Simple calculator
+2. Simple calculator___
 
-Third- Movie booking system
+3.Movie booking system
